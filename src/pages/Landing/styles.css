@@ -130,5 +130,6 @@
     .total-connections {
         grid-area: total;
         justify-self: end;
+        margin-left: 1.6rem;
     }
 }
